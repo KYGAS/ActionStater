@@ -1,0 +1,15 @@
+{
+	"disableAutoUpdate": false,
+	"author" : "KYGAS#8575 and Niwyia#4195",
+    "name": "Action Stater",
+    "options": {
+        "niceName": "AS",
+        "guiName": "Action Stater",
+		"settingsVersion": 1,
+		"settingsFile": "config.json",
+		"settingsMigrator": "setting_migration.js"
+    },
+    "description": "States your actions in a fun way during the fights.",
+    "servers": ["https://raw.githubusercontent.com/KYGAS/ActionStater/master/"],
+	"version": "1.0"
+}
